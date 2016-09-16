@@ -1,0 +1,22 @@
+Daniel Alfonso;Torres Vega;201210909;Masculino;19
+Luis Alejandro;López Vargas;201212704;Masculino;18
+Christian Rafael;Mariño Chaparro;201210245;Masculino;18
+Harold Jair;Barrera Navas;201212426;Masculino;18
+Cristhian Camilo;Rodriguez Pinzon;201214276;Masculino;19
+Ana Mileidy;Rodriguez Lopez;201210288;Femenino;19
+Daniel Alcides;Carvajal Patiño;201210248;Masculino;17
+Victoria Geraldine;Cely Cristancho;201112435;Femenino;20
+Indira Fabiola;Lopez Sanabria;201111305;Femenino;23
+Fabian Leonardo;Vargas Corredor;201023593;Masculino;21
+Deicy Jimena;Gutierrez Perez;201121935;Femenino;20
+David Fernando;Gutierrez Ramirez;201210620;Masculino;18
+Diana Milena;Aranguren Orjuela;201011145;Femenino;20
+Andrea Lizeth;Pacagüi Figueredo;201211351;Femenino;18
+Deisy Natalia;Viancha Montoya;201121141;Femenino;19
+Sandra Carolina;Macias Diaz;201121124;Femenino;18
+Edith Lorena;Chaparro Sierra;201111329;Femenino;19
+Misael Monroy;Catimay;201010506;Masculino;19
+David Leonardo;Rincon Vargas;201122827;Masculino;19
+Rafael Antonio;Gomez Roncancio;201210545;Masculino;21
+Luisa Fernanda;Micolta Espitia;201021314;Femenino;20
+Angela Patricia;Cepeda Silva;201120520;Femenino;20
